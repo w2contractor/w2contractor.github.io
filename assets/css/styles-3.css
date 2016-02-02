@@ -193,7 +193,7 @@ pre code {
   margin-top: 0;
 }
 .promo .title .highlight {
-  color: #f46fa3;
+  color: #F8F6C5;
 }
 .promo .intro {
   font-size: 28px;
@@ -235,13 +235,13 @@ pre code {
 }
 /* ======= About Section ======= */
 .about {
-  padding: 80px 0;
+  padding: 60px 0;
   background: #f5f5f5;
 }
 .about .title {
   color: #2a435c;
   margin-top: 0;
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 .about .intro {
   max-width: 800px;
